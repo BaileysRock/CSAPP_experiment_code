@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Code/CLionProjects/CSAPP_Lab2/Lab2.7_Data_transformation/cs_ftoa.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

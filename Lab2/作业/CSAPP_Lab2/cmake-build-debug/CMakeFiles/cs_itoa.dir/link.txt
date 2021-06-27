@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/cs_itoa.dir/Lab2.7_Data_transformation/cs_itoa.c.o  -o cs_itoa 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/Difference_cstr_pstr.dir/Lab2.4_Difference_cstr_pstr/Difference_cstr_pstr.c.o  -o Difference_cstr_pstr 

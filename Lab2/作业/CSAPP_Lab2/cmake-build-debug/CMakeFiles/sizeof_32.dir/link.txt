@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g  -m32 CMakeFiles/sizeof_32.dir/Lab2.1_sizeof_32/sizeof_32.c.o  -o sizeof_32 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/float_code.dir/Lab2.9_float_code/float_code.c.o  -o float_code 

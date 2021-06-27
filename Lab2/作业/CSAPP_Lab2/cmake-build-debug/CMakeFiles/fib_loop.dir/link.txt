@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/fib_loop.dir/Lab2.8_Fib/fib_loop.c.o  -o fib_loop 

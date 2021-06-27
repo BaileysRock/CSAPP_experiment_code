@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/floatx.dir/Lab2.9_float_code/floatx.c.o  -o floatx 

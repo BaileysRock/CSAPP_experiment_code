@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/fib_dg_unsigned_int.dir/Lab2.8_Fib/fib_dg_unsigned_int.c.o  -o fib_dg_unsigned_int 

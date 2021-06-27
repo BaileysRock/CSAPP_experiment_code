@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/cs_atof.dir/Lab2.7_Data_transformation/cs_atof.c.o  -o cs_atof 

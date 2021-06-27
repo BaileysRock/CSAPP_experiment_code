@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/Parametric_analysis_of_main.dir/Lab2.3_Parametric_analysis_of_main/Parametric_analysis_of_main.c.o  -o Parametric_analysis_of_main 

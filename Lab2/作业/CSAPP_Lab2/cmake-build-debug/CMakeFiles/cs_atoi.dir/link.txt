@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/cs_atoi.dir/Lab2.7_Data_transformation/cs_atoi.c.o  -o cs_atoi 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/fib_dg.dir/Lab2.8_Fib/fib_dg.c.o  -o fib_dg 

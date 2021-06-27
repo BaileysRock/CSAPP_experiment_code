@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/Divided_by_0.dir/Lab2.8_Fib/Divided_by_0.c.o  -o Divided_by_0 

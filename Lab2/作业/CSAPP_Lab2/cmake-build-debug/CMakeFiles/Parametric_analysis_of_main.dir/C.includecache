@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Code/CLionProjects/CSAPP_Lab2/Lab2.3_Parametric_analysis_of_main/Parametric_analysis_of_main.c
+stdio.h
+-
+

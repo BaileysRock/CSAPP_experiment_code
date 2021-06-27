@@ -1,0 +1,9 @@
+push   %rdi
+push   %rax
+push   %rsi
+mov    $0x40207c,%edi
+movslq %edi,%rdi
+call 0x000000
+pop  %rsi
+pop  %rax
+pop  %rdi

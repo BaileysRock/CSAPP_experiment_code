@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/utf8len.dir/Lab2.5_utf8len/utf8len.c.o  -o utf8len 

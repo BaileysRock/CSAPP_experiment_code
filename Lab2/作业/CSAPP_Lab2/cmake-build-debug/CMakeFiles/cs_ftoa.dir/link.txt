@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/cs_ftoa.dir/Lab2.7_Data_transformation/cs_ftoa.c.o  -o cs_ftoa 

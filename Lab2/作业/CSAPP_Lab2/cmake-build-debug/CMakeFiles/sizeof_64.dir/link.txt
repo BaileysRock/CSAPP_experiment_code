@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/sizeof_64.dir/Lab2.1_sizeof_64/sizeof_64.c.o  -o sizeof_64 

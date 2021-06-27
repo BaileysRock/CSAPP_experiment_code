@@ -1,0 +1,1 @@
+/usr/bin/cc  -O0 -g   CMakeFiles/strcmp.dir/Lab2.6_strcmp/strcmp.c.o  -o strcmp 
